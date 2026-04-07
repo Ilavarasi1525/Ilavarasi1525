@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilavarasi</h1>
+ <img src="https://readme-typing-svg.herokuapp.com?
 
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
@@ -7,7 +8,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilavarasi&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/badge/Data-Analytics-blue" />
   <img src="https://img.shields.io/badge/Focus-Dashboard%20Building-green" />
 
