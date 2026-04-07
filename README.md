@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**Ilavarasi1525/Ilavarasi1525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const Ilavarasi = {
+  pronouns: "she" | "her",
+  location: "Living inside dashboards 📊✨"
+  currentlyWorking: "Data Analyst Projects",
+  
+  code: ["Python", "C", "C++", "SQL","colab"],
+  
+  technologies: {
+    dataScience: ["Pandas", "NumPy", "Matplotlib", "Plotly"],
+    machineLearning: ["Scikit-Learn"],
+    databases: ["MySQL"],
+    tools: ["Jupyter", "Git", "Anaconda", "VS Code"],
+    iot: ["Arduino", "Embedded Systems"]
+    visualization: ["Excel", "Power Bi Desktop", "Tableau]
+ ,
+ ,
+  },
+  
+  projects:  {
+    iot: "📡 Controlling AC bulb using Arduino Uno",
+    analytics: "🔧 Banking Data Analysis Dashboard "
+               "🔧 Retail Data Analysis"
+  },
+  
+  currentFocus: "Building ML models ",
+  funFact: “I turn data into insights and dashboards that drive decisions 📊🚀”
+};
