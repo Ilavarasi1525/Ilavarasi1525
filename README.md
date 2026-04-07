@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/58e12209-44fb-4a90-a753-47f3a68f9d82" />
+<img align="right" alt="coding" width="250"src="https://github.com/user-attachments/assets/58e12209-44fb-4a90-a753-47f3a68f9d82" />
 
 
 ```javascript
