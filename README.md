@@ -18,16 +18,17 @@
 ## 👩‍💻 About Me
 
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif>
 
 ```javascript
 const ilavarasi = {
   pronouns: "she/her",
-  location: "Building at 2 AM ☕",
+  location: "Living inside dashboards 📊✨",
   currentlyWorking: "Data Analysis Projects",
 
   code: ["Python", "SQL", "Excel", "DAX"],
   technologies: {
-    analytics: ["Power BI", "Excel", "SQL", "Python"],
+    analytics: ["Power BI", "Excel", "SQL", "Python" , "Tableau"],
     libraries: ["Pandas", "NumPy", "Matplotlib"],
     databases: ["MySQL"],
     tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
