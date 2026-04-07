@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ilavarasi</h1>
+
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress+📊;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights+🚀;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilavarasi&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Data-Analytics-blue" />
+  <img src="https://img.shields.io/badge/Focus-Dashboard%20Building-green" />
   <img src="https://img.shields.io/badge/Location-Building%20at%202%20AM%20%E2%98%95-purple" />
 </p>
 
@@ -11,16 +17,28 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="coding" width="250"src="https://github.com/user-attachments/assets/58e12209-44fb-4a90-a753-47f3a68f9d82" />
-
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const ilavarasi = {
-  role: "Aspiring Data Analyst 👩‍💻",
-  location: "Living inside dashboards 📊✨",
-  skills: ["Power BI", "SQL", "Excel", "Python" , Tableau],
-  tools: ["Power BI Desktop", "MySQL", "Jupyter Notebook", "VS Code"],
-  project: "🏦 Banking Data Analysis Dashboard",
-  currentFocus: "Improving data skills & building dashboards 📊",
-  funFact: "I turn data into insights and dashboards that drive decisions 📊🚀"
-}
+  pronouns: "she/her",
+  location: "Building at 2 AM ☕",
+  currentlyWorking: "Data Analysis Projects",
+
+  code: ["Python", "SQL", "Excel", "DAX"],
+  technologies: {
+    analytics: ["Power BI", "Excel", "SQL", "Python"],
+    libraries: ["Pandas", "NumPy", "Matplotlib"],
+    databases: ["MySQL"],
+    tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
+  },
+
+  projects: {
+    analytics: "Banking Data Analysis Dashboard",
+    sql: "Retail Sales Data Analysis",
+    python: "Sales Data Analysis using Python"
+  },
+
+  currentFocus: "Building dashboards and improving data skills",
+  funFact: "I turn data into insights and dashboards 📊🚀"
+};
