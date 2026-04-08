@@ -61,7 +61,7 @@ const ilavarasi = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+};
 ```
 
 ## 📌 Featured Projects
@@ -73,7 +73,7 @@ const ilavarasi = {
 - Used slicers (Year, Gender) for insights  
 - Tools: Power BI, SQL, Excel  
 
----
+```
 
 ### 🛒 Retail Sales Data Analysis
 - Analyzed retail transaction data  
@@ -81,14 +81,14 @@ const ilavarasi = {
 - Generated business insights for decision-making  
 - Tools: Python, SQL, Excel  
 
----
+```
 
 ### 📊 Data Analysis End-to-End Project
 - Complete data analysis workflow from data cleaning to visualization  
 - Built dashboards and reports for insights  
 - Tools: Python, SQL, Power BI  
 
----
+```
 
 ### 💡 Arduino IoT Project – Smart AC & Bulb Control
 - Developed IoT system to control AC and bulb using Arduino  
