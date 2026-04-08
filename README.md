@@ -64,35 +64,62 @@ const ilavarasi = {
 };
 ```
 
-## 📌 Featured Projects
 
-### 🏦 Banking Data Analysis Dashboard
-- Built interactive dashboard using Power BI  
-- Analyzed loan, deposit, and customer data  
-- Created KPIs (Total Loan, Total Deposit, Accounts)  
-- Used slicers (Year, Gender) for insights  
-- Tools: Power BI, SQL, Excel  
+## 💼 Featured Projects
 
-```
+<table>
+<tr>
 
-### 🛒 Retail Sales Data Analysis
-- Analyzed retail transaction data  
-- Performed data cleaning and transformation  
-- Generated business insights for decision-making  
-- Tools: Python, SQL, Excel  
+<td width="50%">
 
-```
+### 🏦 Banking Data Analysis Dashboard  
 
-### 📊 Data Analysis End-to-End Project
-- Complete data analysis workflow from data cleaning to visualization  
-- Built dashboards and reports for insights  
-- Tools: Python, SQL, Power BI  
+Interactive Power BI dashboard analyzing loans, deposits, and customer data. Provides insights using KPIs and filters.
 
-```
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat)
 
-### 💡 Arduino IoT Project – Smart AC & Bulb Control
-- Developed IoT system to control AC and bulb using Arduino  
-- Used sensors and microcontroller programming  
-- Implemented automation and remote control logic  
-- Programming: C++ (Arduino)  
-- Tools: Arduino IDE, IoT components  
+</td>
+
+<td width="50%">
+
+### 📊 End-to-End Data Analysis Project  
+
+Complete data analysis workflow from cleaning to visualization. Generated insights for business decision-making.
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🛒 Retail Sales Data Analysis  
+
+Analyzed retail transaction data to identify trends and improve business insights.
+
+![Python](https://img.shields.io/badge/Python-blue?style=flat)
+![Excel](https://img.shields.io/badge/Excel-green?style=flat)
+
+</td>
+
+<td width="50%">
+
+### 💡 Arduino IoT – AC & Bulb Control  
+
+Arduino-based IoT system to control AC and bulb using sensors and automation logic.
+
+![Arduino](https://img.shields.io/badge/Arduino-green?style=flat)
+![C++](https://img.shields.io/badge/C++-blue?style=flat)
+![IoT](https://img.shields.io/badge/IoT-orange?style=flat)
+
+</td>
+
+</tr>
+</table>
