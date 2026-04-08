@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilavarasi</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
@@ -39,8 +39,10 @@ const ilavarasi = {
 };
 
 ⚒️ Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+ </p>
