@@ -123,3 +123,5 @@ Arduino-based IoT system to control AC and bulb using sensors and automation log
 
 </tr>
 </table>
+};
+```
