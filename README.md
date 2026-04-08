@@ -1,17 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilavarasi</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python | Tableau</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
-  <img src="https://img.shields.io/badge/Location-Living%20inside%20dashboards%20📊✨-purple" />
-</p>
-
----
-
 ## 👩‍💻 About Me
-
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const ilavarasi = {
@@ -35,8 +22,8 @@ const ilavarasi = {
 
   currentFocus: "Building dashboards and improving data skills",
   funFact: "I turn data into insights and dashboards 📊🚀"
-
 };
+```
 
 ## ⚒️ Tech Stack
 
