@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ilavarasi</h1>
- <img src="https://readme-typing-svg.herokuapp.com?
-
 <h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7B801&size=25&center=true&vCenter=true&width=500&lines=Data+Analyst+in+Progress+📊;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights+🚀;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data-Analytics-blue" />
-  <img src="https://img.shields.io/badge/Focus-Dashboard%20Building-green" />
-
+  <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Location-Living%20inside%20dashboards%20📊✨-purple" />
 </p>
 
 ---
@@ -25,9 +19,9 @@ const ilavarasi = {
   location: "Living inside dashboards 📊✨",
   currentlyWorking: "Data Analysis Projects",
 
-  code: ["Python", "SQL", "Excel", "DAX" , "Colab" , "EDA"],
+  code: ["Python", "SQL", "Excel", "DAX"],
   technologies: {
-    analytics: ["Power BI", "Excel", "SQL", "Python" , "Tableau"],
+    analytics: ["Power BI", "Excel", "SQL", "Python"],
     libraries: ["Pandas", "NumPy", "Matplotlib"],
     databases: ["MySQL"],
     tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
@@ -41,12 +35,5 @@ const ilavarasi = {
 
   currentFocus: "Building dashboards and improving data skills",
   funFact: "I turn data into insights and dashboards 📊🚀"
+
 };
-
----
-
-## ⚒️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
