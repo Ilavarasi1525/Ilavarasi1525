@@ -62,3 +62,37 @@ const ilavarasi = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+```
+
+## 📌 Featured Projects
+
+### 🏦 Banking Data Analysis Dashboard
+- Built interactive dashboard using Power BI  
+- Analyzed loan, deposit, and customer data  
+- Created KPIs (Total Loan, Total Deposit, Accounts)  
+- Used slicers (Year, Gender) for insights  
+- Tools: Power BI, SQL, Excel  
+
+---
+
+### 🛒 Retail Sales Data Analysis
+- Analyzed retail transaction data  
+- Performed data cleaning and transformation  
+- Generated business insights for decision-making  
+- Tools: Python, SQL, Excel  
+
+---
+
+### 📊 Data Analysis End-to-End Project
+- Complete data analysis workflow from data cleaning to visualization  
+- Built dashboards and reports for insights  
+- Tools: Python, SQL, Power BI  
+
+---
+
+### 💡 Arduino IoT Project – Smart AC & Bulb Control
+- Developed IoT system to control AC and bulb using Arduino  
+- Used sensors and microcontroller programming  
+- Implemented automation and remote control logic  
+- Programming: C++ (Arduino)  
+- Tools: Arduino IDE, IoT components  
