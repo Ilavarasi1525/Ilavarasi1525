@@ -1,3 +1,14 @@
+
+<h1 align="center">Hi 👋, I'm Ilavarasi</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Location-Living%20inside%20dashboards%20📊✨-purple" />
+</p>
+
+
 ## 👩‍💻 About Me
 
 ```javascript
@@ -33,3 +44,8 @@ const ilavarasi = {
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
+};
+```
+
+
