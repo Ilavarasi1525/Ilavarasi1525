@@ -1,29 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ilavarasi</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
-  <img src="https://img.shields.io/badge/Location-Living%20inside%20dashboards%20📊✨-purple" />
-</p>
+# 👋 Hi, I'm Ilavarasi
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Ilavarasi;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;IoT+and+Data+Projects" />
+
+✨ **Turning data into insights and ideas into projects 🚀**
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
-```javascript
+~~~javascript
 const ilavarasi = {
-  pronouns: "she/her",
-  location: "Living inside dashboards 📊✨",
-  currentlyWorking: "Data Analysis Projects",
+  name: "Ilavarasi",
+  degree: "BSc Computer Science & Electronics",
+  graduation: "2025",
+  role: "Aspiring Data Analyst",
+  location: "India",
+  languages: ["Python", "C", "C++", "SQL"],
+  tools: ["Power BI", "Tableau", "MySQL", "Google Colab", "Jupyter", "VS Code", "GitHub"],
+  interests: ["Data Analytics", "Dashboards", "IoT Projects"],
+  funFact: "I enjoy building dashboards and smart IoT projects ✨"
+};
+~~~
 
-  code: ["Python", "SQL", "Excel", "DAX"],
-  technologies: {
-    analytics: ["Power BI", "Excel", "SQL", "Python"],
-    libraries: ["Pandas", "NumPy", "Matplotlib"],
-    databases: ["MySQL"],
-    tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
-  },
+---
 
+<div align="center">
+
+## 🚀 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ilavarasi1525&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilavarasi1525&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 My Workspace
+
+<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
+
+</div>
+
+---
+
+# 👋 Hi, I'm Ilavarasi
+
+🎓 BSc Computer Science & Electronics Graduate (2025)  
+📊 Aspiring Data Analyst | 💡 IoT Enthusiast  
+📍 Building projects with data, dashboards & hardware  
 
 ---
 
@@ -142,13 +185,10 @@ const ilavarasi = {
 ---
 
 ## 📫 Connect With Me
+
 📧 Email: your-email@gmail.com  
 🔗 LinkedIn: Add your link  
-🌐 Portfolio: Add your link  
-
----
-
-⭐ If you like my work, give a star to my repositories!
+🌐 Portfolio: Add your link
 
 
 
