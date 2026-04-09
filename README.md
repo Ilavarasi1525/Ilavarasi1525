@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Ilavarasi
+# 👋 Hi, I'm
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Ilavarasi;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;IoT+and+Data+Projects" />
+
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
+
+
 
 ✨ **Turning data into insights and ideas into projects 🚀**
 
@@ -29,18 +33,6 @@ const ilavarasi = {
 
 ---
 
-<div align="center">
-
-## 🚀 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
-
-</div>
-
----
 
 
 <div align="center">
@@ -183,7 +175,7 @@ const ilavarasi = {
 
 ✍️ Random Dev Quote
 
-“I turn data into insights and dashboards that drive decisions 📊🚀.”
+“I turn data into insights and dashboards that drive decisions .”
 
 ---
 
