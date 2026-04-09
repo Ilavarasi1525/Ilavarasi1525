@@ -64,7 +64,6 @@ const ilavarasi = {
 };
 ```
 
-
 ## 💼 Featured Projects
 
 <table>
@@ -102,16 +101,17 @@ Complete data analysis workflow from cleaning to visualization. Generated insigh
 
 ### 🛒 Retail Sales Data Analysis  
 
-Analyzed retail transaction data to identify trends and improve business insights.
+Analyzed retail transaction data to identify trends and generate business insights.
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 
 </td>
 
 <td width="50%">
 
-### 💡 Arduino IoT – AC & Bulb Control  
+### 💡 Arduino IoT – Smart AC & Bulb Control  
 
 Arduino-based IoT system to control AC and bulb using sensors and automation logic.
 
@@ -123,5 +123,3 @@ Arduino-based IoT system to control AC and bulb using sensors and automation log
 
 </tr>
 </table>
-};
-```
