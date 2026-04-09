@@ -179,12 +179,31 @@ const ilavarasi = {
 
 ---
 
+## 🤝 Connect With Me
 
-## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://instagram.com/YOUR-INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/ilavarasi1525">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-📧 Email: ilavailavarasi2508@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/ilavarasi1525?utm_source=share_via&utm_content=profile&utm_medium=member_android
-🌐 Portfolio: Add your link
+---
+
+<p align="center">
+✨ Show some ❤️ by starring repositories! ✨
+</p>
 
 
 
