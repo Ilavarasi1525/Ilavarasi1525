@@ -1,8 +1,29 @@
-# 👋 Hi, I'm Ilavarasi
+<h1 align="center">Hi 👋, I'm Ilavarasi</h1>
+<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
 
-🎓 BSc Computer Science & Electronics Graduate (2025)  
-📊 Aspiring Data Analyst | 💡 IoT Enthusiast  
-📍 Building projects with data, dashboards & hardware  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilavarasi1525&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics-blue" />
+  <img src="https://img.shields.io/badge/Location-Living%20inside%20dashboards%20📊✨-purple" />
+</p>
+
+
+## 👩‍💻 About Me
+
+```javascript
+const ilavarasi = {
+  pronouns: "she/her",
+  location: "Living inside dashboards 📊✨",
+  currentlyWorking: "Data Analysis Projects",
+
+  code: ["Python", "SQL", "Excel", "DAX"],
+  technologies: {
+    analytics: ["Power BI", "Excel", "SQL", "Python"],
+    libraries: ["Pandas", "NumPy", "Matplotlib"],
+    databases: ["MySQL"],
+    tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
+  },
+
 
 ---
 
