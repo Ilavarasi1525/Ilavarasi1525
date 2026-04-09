@@ -64,7 +64,7 @@ const ilavarasi = {
 };
 ```
 
-## 💼 Featured Projects
+## 📁 Featured Projects
 
 <table>
 <tr>
@@ -105,21 +105,23 @@ Analyzed retail transaction data to identify trends and generate business insigh
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat)
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat)
 
 </td>
 
 <td width="50%">
 
-### 💡 Arduino IoT – Smart AC & Bulb Control  
+### 💡 Arduino IoT – AC & Bulb Control  
 
-Arduino-based IoT system to control AC and bulb using sensors and automation logic.
+Developed IoT system to control AC and bulb using Arduino and sensors with automation logic.
 
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=flat)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat)
 ![IoT](https://img.shields.io/badge/IoT-orange?style=flat)
 
 </td>
+
+</tr>
+</table>
 
 </tr>
 </table>
