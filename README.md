@@ -15,14 +15,15 @@
 ~~~javascript
 const ilavarasi = {
   name: "Ilavarasi",
-  degree: "BSc Computer Science & Electronics",
-  graduation: "2025",
-  role: "Aspiring Data Analyst",
-  location: "India",
-  languages: ["Python", "C", "C++", "SQL"],
-  tools: ["Power BI", "Tableau", "MySQL", "Google Colab", "Jupyter", "VS Code", "GitHub"],
-  interests: ["Data Analytics", "Dashboards", "IoT Projects"],
-  funFact: "I enjoy building dashboards and smart IoT projects ✨"
+ pronouns: "she/her",
+  location: "Living inside dashboards 📊✨",
+  currentlyWorking: "Data Analysis Projects",
+ code: ["Python", "SQL", "Excel", "DAX"],
+  technologies: {
+    analytics: ["Power BI", "Excel", "SQL", "Python"],
+    libraries: ["Pandas", "NumPy", "Matplotlib"],
+    databases: ["MySQL"],
+    tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
 };
 ~~~
 
@@ -41,40 +42,25 @@ const ilavarasi = {
 
 ---
 
-<div align="center">
-
-## 📈 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ilavarasi1525&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilavarasi1525&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 <div align="center">
 
-## 💻 My Workspace
-
-<img src="YOUR_IMAGE_LINK_HERE" width="350"/>
-
-</div>
-
----
-
-# 👋 Hi, I'm Ilavarasi
-
-🎓 BSc Computer Science & Electronics Graduate (2025)  
-📊 Aspiring Data Analyst | 💡 IoT Enthusiast  
-📍 Building projects with data, dashboards & hardware  
-
----
 
 ## 🚀 Tech Stack
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+
+
 
 ### 🛠 Tools & Technologies
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
@@ -184,10 +170,28 @@ const ilavarasi = {
 
 ---
 
+<div align="center">
+
+## 📈 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ilavarasi1525&show_icons=true&theme=tokyonight" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilavarasi1525&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+✍️ Random Dev Quote
+
+“I turn data into insights and dashboards that drive decisions 📊🚀.”
+
+---
+
+
 ## 📫 Connect With Me
 
-📧 Email: your-email@gmail.com  
-🔗 LinkedIn: Add your link  
+📧 Email: ilavailavarasi2508@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/ilavarasi1525?utm_source=share_via&utm_content=profile&utm_medium=member_android
 🌐 Portfolio: Add your link
 
 
