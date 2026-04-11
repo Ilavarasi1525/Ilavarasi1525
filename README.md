@@ -17,7 +17,7 @@ const ilavarasi = {
  pronouns: "she/her",
   location: "Living inside dashboards 📊✨",
   currentlyWorking: "Data Analysis Projects",
- code: ["Python", "SQL", "Excel", "DAX"],
+ code: ["Python", "SQL", "Excel", "EDA"],
   technologies: {
     analytics: ["Power BI", "Excel", "SQL", "Python"],
     libraries: ["Pandas", "NumPy", "Matplotlib"],
