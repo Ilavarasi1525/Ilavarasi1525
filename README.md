@@ -126,13 +126,16 @@ const ilavarasi = {
 ---
 
 <div align="center">
+## 📊 GitHub Activity
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilavarasi1525&theme=tokyonight" />
+</p>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Ilavarasi1525&show_icons=true&theme=tokyonight" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilavarasi1525&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilavarasi1525&theme=tokyonight" />
+</p>
 
-</div>
 
 ---
 
