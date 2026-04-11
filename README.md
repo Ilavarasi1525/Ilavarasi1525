@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Ilavarasi;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;IoT+and+Data+Projects" />
 
-<h3 align="center">Aspiring Data Analyst | Power BI | SQL | Excel | Python</h3>
-
-
-
 ✨ **Turning data into insights and ideas into projects 🚀**
 
 </div>
@@ -18,7 +14,6 @@
 
 ~~~javascript
 const ilavarasi = {
-  name: "Ilavarasi",
  pronouns: "she/her",
   location: "Living inside dashboards 📊✨",
   currentlyWorking: "Data Analysis Projects",
@@ -28,6 +23,17 @@ const ilavarasi = {
     libraries: ["Pandas", "NumPy", "Matplotlib"],
     databases: ["MySQL"],
     tools: ["Power BI Desktop", "Jupyter Notebook", "GitHub", "VS Code"]
+ },
+
+  projects: {
+    analytics: "Banking Data Analysis Dashboard",
+    sql: "Retail Sales Data Analysis",
+    python: "Sales Data Analysis using Python"
+  },
+
+  currentFocus: "Building dashboards and improving data skills",
+  funFact: "I turn data into insights and dashboards 📊🚀"
+
 };
 ~~~
 
@@ -72,7 +78,7 @@ const ilavarasi = {
 
 <td width="50%">
 
-### 📌 Banking Data Analysis Dashboard
+### 📌 Banking Data Analysis Dashboard Using (colab)
 📊 Power BI dashboard analyzing loans, deposits & customer data  
 📈 KPI tracking with filters and insights  
 
@@ -96,37 +102,6 @@ const ilavarasi = {
 
 🔗 Add Project Link Here
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 📌 Music Store Data Analysis (SQL)
-📊 Analyzed music store database using SQL queries  
-📈 Used JOIN, GROUP BY, aggregations  
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
-
-🔗 Add Project Link Here
-
-</td>
-
-<td width="50%">
-
-### 📌 Netflix Data Analysis Dashboard
-📊 Power BI dashboard for Netflix dataset  
-📈 Insights on genres, ratings & trends  
-
-![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi)
-
-🔗 Add Project Link Here
-
-</td>
-
-</tr>
 
 <tr>
 
@@ -141,18 +116,6 @@ const ilavarasi = {
 
 🔗 Add Project Link Here
 
-</td>
-
-<td width="50%">
-
-### 📌 Data Analysis using Python (Colab)
-📊 Data cleaning & visualization using Pandas & Matplotlib  
-📈 Created charts & reports  
-
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab)
-
-🔗 Add Project Link Here
 
 </td>
 
@@ -186,10 +149,6 @@ const ilavarasi = {
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
-  <a href="https://instagram.com/YOUR-INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
-  </a>
-  
   <a href="mailto:YOUR-EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -202,7 +161,7 @@ const ilavarasi = {
 ---
 
 <p align="center">
-✨ Show some ❤️ by starring repositories! ✨
+
 </p>
 
 
