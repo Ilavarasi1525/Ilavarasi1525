@@ -86,7 +86,7 @@ const ilavarasi = {
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel)
 
-🔗 Add Project Link Here
+
 
 </td>
 
@@ -100,7 +100,7 @@ const ilavarasi = {
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel)
 
-🔗 Add Project Link Here
+
 
 
 <tr>
@@ -113,9 +113,6 @@ const ilavarasi = {
 
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=flat&logo=arduino)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
-
-🔗 Add Project Link Here
-
 
 </td>
 
