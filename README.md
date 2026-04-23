@@ -82,7 +82,9 @@ const ilavarasi = {
 
 <div align="center">
 
-
+<a href="https://github.com/Ilavarasi1525/Banking-Data-Analysis-Dashboard-">
+  <img src="https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github">
+</a>
 
 
 📊 Power BI dashboard analyzing loans, deposits & customer data  
@@ -102,7 +104,9 @@ const ilavarasi = {
 ### 📌 Retail Sales Data Analysis
 
 <div align="center">
-
+<a href="https://github.com/Ilavarasi1525/Retail-Sales-Data">
+  <img src="https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github">
+</a>
 
 
 📊 End-to-end analysis using Python, SQL & Excel  
@@ -125,7 +129,7 @@ const ilavarasi = {
 <div align="center">
 
 <a href="">
-  <img src="https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github">
 </a>
 
 
