@@ -80,13 +80,13 @@ const ilavarasi = {
 
 ### 📌 Banking Data Analysis Dashboard Using (colab)
 
-[![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)]
+![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
 
 
 📊 Power BI dashboard analyzing loans, deposits & customer data  
 📈 KPI tracking with filters and insights  
 
-![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
@@ -100,7 +100,7 @@ const ilavarasi = {
 
 ### 📌 Retail Sales Data Analysis
 
-![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
 
 📊 End-to-end analysis using Python, SQL & Excel  
 📈 Data cleaning, transformation & visualization  
