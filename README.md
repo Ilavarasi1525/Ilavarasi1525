@@ -82,7 +82,7 @@ const ilavarasi = {
 
 <div align="center">
 
-![GITHUB](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)https://github.com/Ilavarasi1525?tab=repositories
 
 
 📊 Power BI dashboard analyzing loans, deposits & customer data  
@@ -103,7 +103,7 @@ const ilavarasi = {
 
 <div align="center">
 
-![GITHUB](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)https://github.com/Ilavarasi1525?tab=repositories
 
 📊 End-to-end analysis using Python, SQL & Excel  
 📈 Data cleaning, transformation & visualization  
@@ -124,7 +124,7 @@ const ilavarasi = {
 
 <div align="center">
 
-![Repository](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)
+![Repository](https://img.shields.io/badge/view-Repository-black?style=for-the-badge&logo=github)https://github.com/Ilavarasi1525?tab=repositories
 
 💡 Control AC & Bulb using Arduino  
 📡 IoT-based automation system  
