@@ -80,13 +80,12 @@ const ilavarasi = {
 
 ### 📌 Banking Data Analysis Dashboard Using (colab)
 
-![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/GITHUB-Repository-black?style=for-the-badge&logo=github)
 
 
 📊 Power BI dashboard analyzing loans, deposits & customer data  
 📈 KPI tracking with filters and insights  
 
-![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
@@ -100,7 +99,7 @@ const ilavarasi = {
 
 ### 📌 Retail Sales Data Analysis
 
-![GITHUB](https://img.shields.io/badge/REPOSITORY-Repository-black?style=for-the-badge&logo=github)
+![GITHUB](https://img.shields.io/badge/GITHUB-Repository-black?style=for-the-badge&logo=github)
 
 📊 End-to-end analysis using Python, SQL & Excel  
 📈 Data cleaning, transformation & visualization  
@@ -118,7 +117,7 @@ const ilavarasi = {
 
 ### 📌 Arduino IoT Project – Smart AC/Bulb Control
 
-![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)
+![Repository](https://img.shields.io/badge/GITHUB-GITHUB-black?style=for-the-badge&logo=github)
 
 💡 Control AC & Bulb using Arduino  
 📡 IoT-based automation system  
