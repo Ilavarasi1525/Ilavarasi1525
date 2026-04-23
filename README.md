@@ -80,6 +80,8 @@ const ilavarasi = {
 
 ### 📌 Banking Data Analysis Dashboard Using (colab)
 
+<div align="center">
+
 ![GITHUB](https://img.shields.io/badge/GITHUB-Repository-black?style=for-the-badge&logo=github)
 
 
@@ -99,6 +101,8 @@ const ilavarasi = {
 
 ### 📌 Retail Sales Data Analysis
 
+<div align="center">
+
 ![GITHUB](https://img.shields.io/badge/GITHUB-Repository-black?style=for-the-badge&logo=github)
 
 📊 End-to-end analysis using Python, SQL & Excel  
@@ -117,7 +121,10 @@ const ilavarasi = {
 
 ### 📌 Arduino IoT Project – Smart AC/Bulb Control
 
-![Repository](https://img.shields.io/badge/GITHUB-GITHUB-black?style=for-the-badge&logo=github)
+
+<div align="center">
+
+![Repository](https://img.shields.io/badge/GITHUB-Repository-black?style=for-the-badge&logo=github)
 
 💡 Control AC & Bulb using Arduino  
 📡 IoT-based automation system  
