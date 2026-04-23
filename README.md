@@ -82,6 +82,11 @@ const ilavarasi = {
 📊 Power BI dashboard analyzing loans, deposits & customer data  
 📈 KPI tracking with filters and insights  
 
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)]
+
+
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=flat&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
 ![Excel](https://img.shields.io/badge/Excel-green?style=flat&logo=microsoft-excel)
@@ -95,6 +100,11 @@ const ilavarasi = {
 ### 📌 Retail Sales Data Analysis
 📊 End-to-end analysis using Python, SQL & Excel  
 📈 Data cleaning, transformation & visualization  
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)]
+
+
 
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=mysql)
@@ -110,6 +120,11 @@ const ilavarasi = {
 ### 📌 Arduino IoT Project – Smart AC/Bulb Control
 💡 Control AC & Bulb using Arduino  
 📡 IoT-based automation system  
+
+[![View Project](https://img.shields.io/badge/VIEW-PROJECT-blue?style=for-the-badge)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Repository](https://img.shields.io/badge/REPOSITORY-GITHUB-black?style=for-the-badge&logo=github)]
+
+
 
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=flat&logo=arduino)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
